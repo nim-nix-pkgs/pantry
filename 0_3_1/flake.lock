@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-pantry-master": "src-pantry-master"
+        "src-pantry-0_3_1": "src-pantry-0_3_1"
       }
     },
-    "src-pantry-master": {
+    "src-pantry-0_3_1": {
       "flake": false,
       "locked": {
         "lastModified": 1656125927,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "ire4ever1190",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.3.1",
         "repo": "pantry-nim",
         "type": "github"
       }
